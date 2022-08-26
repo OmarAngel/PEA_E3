@@ -1,0 +1,118 @@
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\PEA1_EJERCICIO3.dll.config
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\PEA1_EJERCICIO3.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\PEA1_EJERCICIO3.pdb
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csc.exe
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csc.exe.config
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csc.rsp
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csi.exe
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csi.exe.config
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csi.rsp
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.AppContext.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Collections.Immutable.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Console.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Globalization.Calendars.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.Compression.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.FileSystem.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Net.Http.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Net.Sockets.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Reflection.Metadata.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.ValueTuple.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.XPath.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\vbc.exe
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\vbc.exe.config
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\vbc.rsp
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\VBCSCompiler.exe
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\roslyn\VBCSCompiler.exe.config
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.csproj.AssemblyReference.cache
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.csproj.CopyComplete
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.dll
+C:\CERSISE- 2022 II\CICLO 4\Aplicaciones Web\AplicacionesWEB\AplicaWEB_CPEX\PEA1\Ejercicio_3\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.pdb
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\PEA1_EJERCICIO3.dll.config
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\PEA1_EJERCICIO3.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\PEA1_EJERCICIO3.pdb
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csc.exe
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csc.exe.config
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csc.rsp
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csi.exe
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csi.exe.config
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\csi.rsp
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.AppContext.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Console.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.Compression.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Net.Http.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.ValueTuple.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\vbc.exe
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\vbc.exe.config
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\vbc.rsp
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\VBCSCompiler.exe
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.csproj.AssemblyReference.cache
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.csproj.CopyComplete
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.dll
+C:\Users\omanv\Downloads\PEA1_\PEA1_EJERCICIO3\obj\Debug\PEA1_EJERCICIO3.pdb
